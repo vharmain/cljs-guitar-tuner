@@ -1,0 +1,14 @@
+{
+  "name": "cljs-guitar-tuner",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.11.5"
+  },
+  "dependencies": {
+    "create-react-class": "^15.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tone": "^14.7.58"
+  }
+}
